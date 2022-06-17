@@ -1,1 +1,1 @@
-图床
+github图床仓库+jsdelivr加速
